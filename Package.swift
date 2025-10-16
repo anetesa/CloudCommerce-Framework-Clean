@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CloudCommerce",
-            url: "https://github.com/anetesa/CloudCommerce-Framework/releases/download/v1.0.1/CloudCommerce.xcframework.tar.gz",
-            checksum: "8fffa68ef8d051eb66cc8ceb825f45cc4a96997b611043eabdcb6e3581dc2450"
+            url: "https://github.com/anetesa/CloudCommerce-Framework-Clean/releases/download/v1.0.1/CloudCommerce.xcframework.zip",
+            checksum: "6dcb7e99a7675949aa976b3e4509e94e12f82ffd89830435d43c2fb0448056f7"
         ),
     ]
 )
